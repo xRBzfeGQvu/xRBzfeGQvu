@@ -1,5 +1,4 @@
-# Hi There! 👋🏻
-Im a Discord Bot Developer and a Website Developer
+Discord Bot Developer and Website Developer
 
 ## Projects
 [Floppa-Bot](https://top.gg/bot/778275176072347659/)
@@ -8,13 +7,14 @@ Im a Discord Bot Developer and a Website Developer
 
 [Commando](https://www.npmjs.com/package/@xrbzfegqvu/discord.js-commando)
 
-[Website](https://xrbzfegqvu.github.io/Floppa-Bot-Website/)
+[Website](https://xrbzfegqvu.github.io/)
 
 [Cheap Villagers Addon](https://mcpedl.com/cheap-villagers-addon/)
 
 ### Languages
 - JavaScript
 - TypeScript
+- LUA
 - HTML
 - CSS
 
