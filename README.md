@@ -3,9 +3,7 @@ Discord Bot Developer and Website Developer
 ## Projects
 [Floppa-Bot](https://top.gg/bot/778275176072347659/)
 
-[Steeeeve-Bot](https://github.com/xRBzfeGQvu/Steeeeve-Bot)
-
-[Commando](https://www.npmjs.com/package/@xrbzfegqvu/discord.js-commando)
+Commando
 
 [Website](https://xrbzfegqvu.github.io/)
 
