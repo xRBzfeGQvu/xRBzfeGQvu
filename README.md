@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/stars/xRBzfeGQvu?style=for-the-badge"/>
+[![Discord Server](https://img.shields.io/discord/805963208774123571?style=for-the-badge)](https://discord.com/invite/JcPQm875q6) <img src="https://img.shields.io/github/stars/xRBzfeGQvu?style=for-the-badge"/> <img src="https://img.shields.io/github/sponsors/xRBzfeGQvu?style=for-the-badge"/> <img src ="https://img.shields.io/github/followers/xRBzfeGQvu?style=for-the-badge"/>
 
 Discord Bot Developer and Website Developer
 
@@ -21,11 +21,16 @@ Discord Bot Developer and Website Developer
 <img src="https://img.shields.io/badge/Shell-95d64f?style=for-the-badge&logo=shell&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-77c957?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
+### OS
+<img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
 ### IDEs
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_2017-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
 ### Stats
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact"></img>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact"></img>
 <p>
