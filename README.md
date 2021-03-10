@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/discord/805963208774123571?style=for-the-badge)](https://discord.com/invite/JcPQm875q6) <img src="https://img.shields.io/github/stars/xRBzfeGQvu?style=for-the-badge"/> <img src="https://img.shields.io/github/sponsors/xRBzfeGQvu?style=for-the-badge"/> <img src ="https://img.shields.io/github/followers/xRBzfeGQvu?style=for-the-badge"/>
+[![Discord Server](https://img.shields.io/discord/765209036572196904?style=for-the-badge)](https://discord.com/invite/JcPQm875q6) <img src="https://img.shields.io/github/stars/xRBzfeGQvu?style=for-the-badge"/> <img src="https://img.shields.io/github/sponsors/xRBzfeGQvu?style=for-the-badge"/> <img src ="https://img.shields.io/github/followers/xRBzfeGQvu?style=for-the-badge"/>
 
 Discord Bot Developer and Website Developer
 
