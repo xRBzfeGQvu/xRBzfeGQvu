@@ -27,5 +27,5 @@ Discord Bot Developer and Website Developer
 
 ### Stats
 <p>
- <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact"></img>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact"></img>
 <p>
