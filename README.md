@@ -32,6 +32,4 @@ Discord Bot Developer and Website Developer
 <img src="https://img.shields.io/badge/Visual_Studio_2017-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
 ### Stats
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact"></img>
-<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&langs_count=8"/>
