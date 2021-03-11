@@ -18,6 +18,7 @@ Discord Bot Developer and Website Developer
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dockerfile-252d6e?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell-95d64f?style=for-the-badge&logo=shell&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-77c957?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
