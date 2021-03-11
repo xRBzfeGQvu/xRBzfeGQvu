@@ -2,16 +2,13 @@
 
 Discord Bot Developer and Website Developer
 
-### Projects
+## Projects
 - [Floppa-Bot](https://top.gg/bot/778275176072347659/)
 - [Commando](https://github.com/xRBzfeGQvu/Commando)
 - [Floppa-Bot "Dashboard"](https://xrbzfegqvu.github.io/)
 - [Cheap Villagers Addon](https://mcpedl.com/cheap-villagers-addon/)
 
-### Specs
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/Intel-Core_i7_2nd_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-
-### Languages
+## Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -22,14 +19,13 @@ Discord Bot Developer and Website Developer
 <img src="https://img.shields.io/badge/Shell-95d64f?style=for-the-badge&logo=shell&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-77c957?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-### OS
-<img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+## OS
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white")](https://ubuntu.com/download/desktop)
 
-### IDEs
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+## IDEs
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
+[![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 
-### Stats
+## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&langs_count=8"/> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu"/>
