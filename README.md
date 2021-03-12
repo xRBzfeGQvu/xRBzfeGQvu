@@ -1,5 +1,7 @@
 [![Discord Server](https://img.shields.io/discord/765209036572196904?style=for-the-badge)](https://discord.com/invite/JcPQm875q6) <img src="https://img.shields.io/github/stars/xRBzfeGQvu?style=for-the-badge"/> <img src="https://img.shields.io/github/sponsors/xRBzfeGQvu?style=for-the-badge"/> <img src ="https://img.shields.io/github/followers/xRBzfeGQvu?style=for-the-badge"/>
 
+![Discord](https://discord.c99.nl/widget/theme-1/736767730820317246.png)
+
 Discord Bot Developer and Website Developer
 
 ## Projects
@@ -28,4 +30,6 @@ Discord Bot Developer and Website Developer
 [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&langs_count=8"/> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&hide_langs_below=1&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&line_height=21"/>
