@@ -29,8 +29,18 @@ Discord Bot Developer and Website Developer
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 
-## Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&line_height=21"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&hide_langs_below=1&layout=compact"/>
-
+<details>
+	<summary><b>Stats</b></summary>
+	<p align="center">
+			<img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&margin-h=25&column=7">
+	</p>
+	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&custom_title=Stats&include_all_commits=true">
+	</p>
+	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&langs_count=10">
+	</p>
+	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu&layout=compact">
+	</p>
+</details>
