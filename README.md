@@ -15,8 +15,26 @@ Discord Bot Developer and Website Developer
 
 ## OS
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10)
+[![Debian](https://img.shields.io/badge/Debian-E74C3C?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 
 ## IDEs
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
+
+## Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&margin-h=25&column=7">
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&include_all_commits=true">
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact">
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu">
+</p>
