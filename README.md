@@ -27,14 +27,6 @@ Discord Bot Developer and Website Developer
   <img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&margin-h=25&column=7">
 </p>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&include_all_commits=true">
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact">
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu">
-</p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&include_all_commits=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu">
