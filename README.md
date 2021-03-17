@@ -23,10 +23,6 @@ Discord Bot Developer and Website Developer
 [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 
 ## Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&margin-h=25&column=7">
-</p>
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&include_all_commits=true"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&count_private=true"></div>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=xRBzfeGQvu">
