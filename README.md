@@ -21,8 +21,3 @@ Discord Bot Developer and Website Developer
 ## IDEs
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
-
-## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&hide_border=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu">
-
