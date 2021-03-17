@@ -13,11 +13,6 @@ Discord Bot Developer and Website Developer
 ## Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/Dockerfile-252d6e?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Shell-95d64f?style=for-the-badge&logo=shell&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-77c957?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=xRBzfeGQvu"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xRBzfeGQvu&show_icons=true&count_private=true&include_all_commits=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRBzfeGQvu&layout=compact">
-
 ## OS
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
